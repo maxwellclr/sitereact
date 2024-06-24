@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sitereact/static/css/main.bb919479.css",
+    "main.js": "/sitereact/static/js/main.f6319d0b.js",
+    "static/media/Logo MaxCoporation.png": "/sitereact/static/media/Logo MaxCoporation.cd746ebd074d9e309cac.png",
+    "static/media/hero-image-1.png": "/sitereact/static/media/hero-image-1.fb512ce0709876835868.png",
+    "static/media/header.jpg": "/sitereact/static/media/header.2cb9b14bf49346eb410d.jpg",
+    "static/media/Logo MaxCoporation sem background.png": "/sitereact/static/media/Logo MaxCoporation sem background.5b22dddae3dfb7f678af.png",
+    "static/media/hero-image-2.png": "/sitereact/static/media/hero-image-2.c7220d52c8eb6b0f4857.png",
+    "static/media/bg6.jpg": "/sitereact/static/media/bg6.dc603b7416966b84ac68.jpg",
+    "static/media/bg11.jpg": "/sitereact/static/media/bg11.c6c21bd88aee67067eb6.jpg",
+    "static/media/login.jpg": "/sitereact/static/media/login.ab931d77bfe905914456.jpg",
+    "static/media/bg5.jpg": "/sitereact/static/media/bg5.d60a95eb31d6400f802f.jpg",
+    "static/media/landing.jpg": "/sitereact/static/media/landing.f79fd406082a9be7d656.jpg",
+    "static/media/hero-image-3.png": "/sitereact/static/media/hero-image-3.29be88a40d73c7967db1.png",
+    "static/media/profile.jpg": "/sitereact/static/media/profile.6ed036a1e7f955614231.jpg",
+    "static/media/maxwell.png": "/sitereact/static/media/maxwell.d2536b4ee3f4926cd269.png",
+    "static/media/Angular.png": "/sitereact/static/media/Angular.de316c30b5358c31b335.png",
+    "static/media/nucleo-outline.eot": "/sitereact/static/media/nucleo-outline.56814a6b7240045e1494.eot",
+    "static/media/nucleo-outline.ttf": "/sitereact/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
+    "static/media/vuejs.png": "/sitereact/static/media/vuejs.3405247992cb3e8d99e5.png",
+    "static/media/Git.png": "/sitereact/static/media/Git.141d50f6c2d8622fdb5e.png",
+    "static/media/nucleo-outline.woff": "/sitereact/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
+    "static/media/nucleo-outline.woff2": "/sitereact/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
+    "index.html": "/sitereact/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.bb919479.css",
+    "static/js/main.f6319d0b.js"
+  ]
+}
