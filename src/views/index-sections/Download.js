@@ -37,7 +37,7 @@ function Download() {
               <Button
                 className="btn-neutral btn-icon btn-round"
                 color="linkedin"
-                href="https://www.linkedin.com/in/maxwell-clemente-b5a60017a/"
+                href="https://www.linkedin.com/in/maxwellclemente/"
                 id="tooltip647117716"
                 size="lg"
                 target="_blank"

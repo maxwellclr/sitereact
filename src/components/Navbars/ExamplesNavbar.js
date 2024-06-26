@@ -88,7 +88,7 @@ function ExamplesNavbar() {
               
               <NavItem>
                 <NavLink
-                  href="https://www.linkedin.com/in/maxwell-clemente-b5a60017a/"
+                  href="https://www.linkedin.com/in/maxwellclemente/"
                   target="_blank"
                   id="twitter-tooltip"
                 >

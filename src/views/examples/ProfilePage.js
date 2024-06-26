@@ -51,7 +51,7 @@ function ProfilePage() {
                 color="default"
                 id="tooltip515203352"
                 size="lg"
-                href="https://www.linkedin.com/in/maxwell-clemente-b5a60017a/"
+                href="https://www.linkedin.com/in/maxwellclemente/"
               >
                 <i class="fab fa-linkedin"></i>
               </Button>
