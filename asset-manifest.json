@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sitereact/static/css/main.bb919479.css",
-    "main.js": "/sitereact/static/js/main.f6319d0b.js",
+    "main.js": "/sitereact/static/js/main.a571e72d.js",
     "static/media/Logo MaxCoporation.png": "/sitereact/static/media/Logo MaxCoporation.cd746ebd074d9e309cac.png",
     "static/media/hero-image-1.png": "/sitereact/static/media/hero-image-1.fb512ce0709876835868.png",
     "static/media/header.jpg": "/sitereact/static/media/header.2cb9b14bf49346eb410d.jpg",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.bb919479.css",
-    "static/js/main.f6319d0b.js"
+    "static/js/main.a571e72d.js"
   ]
 }
